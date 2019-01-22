@@ -12,4 +12,5 @@ Compilar y correr xv6
 Un programa está compuesto de un código fuente
 Un sistema operativo está compuesto de un kernel y de aplicaciones del sistema
 
-Qué aprendí:
+# Qué aprendí:
+Un makefile sirve para automatizar, en este se le especifíca la manera de compilar un código fuente e incluso ejecutarlo. Se usan las opciones para especificar qué se hace con cada opción o se usa la opción "all" como default.
