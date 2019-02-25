@@ -28,7 +28,8 @@ git
 
 ## Que aprendí
 Que se debe hacer llamadas al sistema para ejecutar un comando de sistema. En este caso se genera una interrupcion que soluciona el Sistema Operativo 
-Cómo se da de alta una llamada al sistema y los files que se tienen que editar para esto mismo
+Cómo se da de alta una llamada al sistema y los files que se tienen que editar para esto mismo.
+También aprendí qué chip es el que se encarga de este apagado y qué instrucción se envía para que esto ocurra.
 
 ##URL del commit
 https://github.com/JonaCB/so-gp1/commit/63133a59bbf61362d1dc495b08198ef74cbe194f
