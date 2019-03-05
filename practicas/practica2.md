@@ -30,5 +30,10 @@ git
 ++ init
 
 ## Que aprendi
++ Cómo funciona un parser dentro del sistema operativo
++ La importancia del wait en el main del sh.c
++ Como se ejecutan procesos hijos
++ Cómo se copia entre dos buffers
 
 ## URL del commit
+https://github.com/JonaCB/so-gp1/commit/c72cf9de27355410e88a97634ea3afc3f73899a7
