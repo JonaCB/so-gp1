@@ -33,6 +33,7 @@ git
 + Cómo funciona un parser dentro del sistema operativo
 + La importancia del wait en el main del sh.c
 + Como se ejecutan procesos hijos
++ Como se modifica el init.c
 + Cómo se copia entre dos buffers
 
 ## URL del commit
