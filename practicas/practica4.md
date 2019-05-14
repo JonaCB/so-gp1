@@ -22,6 +22,7 @@ Hacer un spike sobre IPC: señales, fork/exec, memoria compartida y archivos map
   + Los cambios en el bloque se guardan automáticamente.  
   
  # ¿Qué aprendí?
- 
+ + Cómo funcionan los archivos mapeados a memoria
+ + Qué es lo que hacen las señales con los programas y cómo se le hace handle a las señales
  # URL del commit:
- 
+ https://github.com/JonaCB/so-gp1/commit/e506f1a0090802c66345b155411d0c30ecc9a239
