@@ -16,7 +16,7 @@ Hacer un spike sobre hilos, semáforos y locks
   + Soporta dos operaciones
     ++ Incrementar (sem_post) siempre incrementa en uno.
     ++ Decrementar (sem_wait) si el valor del semáforo es mayor que 0 decrementa, si es igual que cero se suspende
-  + Cntrolar acceso a recursos
+  + Controlar acceso a recursos
 + Lock
   + Es una variable global.
   + Soporta dos operaciones
@@ -25,7 +25,9 @@ Hacer un spike sobre hilos, semáforos y locks
   + Secciones críticas.
   
 # ¿Qué aprendí?
-
++ Cómo funcionan los hilos
++ cómo se instancian programas para crear hilos
++ Cuáles son los beneficios de usar multithreading en un sistema
 # URL del commit
-    
+https://github.com/JonaCB/so-gp1/commit/7aeec7322d74aa3ac340f0f8ad0ae9ae59f2e9a5
     
